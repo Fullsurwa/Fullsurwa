@@ -1,136 +1,155 @@
-# Daniel Oswago
+# DANIEL OSWAGO
 
-### Project Manager • Software Builder • AI Systems Enthusiast
+### Business Strategist → Project Manager → Software Builder
 
-I combine years of business, sales, marketing, and project execution experience with hands-on software development and AI systems work. My focus is building practical systems that solve real problems, improve operations, and turn complex ideas into useful tools.
+Building practical digital products, AI-assisted systems, and software solutions at the intersection of business, technology, and execution.
+
+I bring a business-first background in project management, sales, marketing, communication, and digital strategy into software and AI systems work. My focus is not simply learning to code — it is using technology to solve real operational and business problems.
 
 <p align="left">
   <a href="https://github.com/Fullsurwa"><img src="https://img.shields.io/badge/GitHub-Fullsurwa-181717?logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/daniel-oswago"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Oswago-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Fullsurwa/Apogee-SKOPE-Portfolio"><img src="https://img.shields.io/badge/Portfolio-Apogee%20SKOPE-FF6B6B?logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:doswago@gmail.com"><img src="https://img.shields.io/badge/Email-doswago%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## GitHub Snapshot
+## The Story
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fullsurwa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
+My path has been shaped by business understanding as much as by technical curiosity.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fullsurwa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+From project delivery and stakeholder coordination to sales, marketing, and digital strategy, I have developed a strong lens for identifying problems, prioritizing work, and creating practical solutions. That experience now informs how I approach software and AI: I think about value, user need, business context, and problem solving before I focus only on the code.
 
----
+I am building the technical depth to move from:
 
-## Who I Am
-
-My background is rooted in business operations, sales, marketing, and project delivery. That experience shaped how I think about software: not as isolated code, but as a system for solving a real problem, getting value into people’s hands, and improving execution.
-
-Today, that perspective sits alongside technical experimentation in software development, AI workflows, and practical systems design.
+**identifying business problems → designing solutions → building systems → learning, improving, and delivering them.**
 
 ---
 
 ## Business Meets Engineering
 
-I do not approach software as a purely technical exercise. I approach it as a business and operational problem first, then a technical one.
+Business Understanding
 
-That means I care about:
+↓
 
-- stakeholder communication
-- project delivery and prioritization
-- practical problem solving
-- clear systems design
-- translating ideas into working tools
-- thinking beyond the code and toward user value
+Problem Definition
 
-The result is a builder mindset shaped by execution discipline, not just technical curiosity.
+↓
 
----
+Product / System Thinking
 
-## Career Journey
+↓
 
-```mermaid
-flowchart LR
-    A[Sales & Marketing] --> B[Project Management]
-    B --> C[Digital Strategy]
-    C --> D[Software Development]
-    D --> E[AI-Assisted Engineering]
-    E --> F[Intelligent Systems]
-```
+Software Development
 
-This progression reflects how I’ve developed: from business and communication work into structured execution, then into software and AI systems building.
+↓
+
+AI Integration
+
+↓
+
+Continuous Improvement
+
+I care about building technology that solves actual organizational and operational problems. My interest is in practical systems that help people work better, decide faster, and operate with more clarity.
 
 ---
 
-## Engineering Principles
+## What I'm Building
 
-- Build for the problem, not for appearance.
-- Clarity beats cleverness.
-- Ship, inspect, and improve.
-- Automate what repeats.
-- Reliability matters more than hype.
+- AI-assisted software systems
+- business applications with practical utility
+- backend systems and runtime logic
+- automation for repetitive work
+- digital platforms built around clear user needs
+- intelligent decision-support tools
 
----
-
-## Systems I'm Building
-
-### Apogee Brain
-**Problem →** Keep operational context, memory, and decision-making coherent in one place.  
-**System →** A local AI operating system that combines vault context, runtime orchestration, structured memory, and AI-assisted workflows.  
-**Technology →** Node.js, Express, Anthropic Claude, local Ollama fallback, markdown/vault-driven context, and structured memory files.  
-**Current stage →** Active local engineering and AI workflow experimentation.
-
-### Apogee SKOPE
-**Problem →** Connect business context, digital workflows, and operational systems into a coherent operating model.  
-**System →** A broader ecosystem for structured thinking, execution, and AI-assisted operations.  
-**Technology →** Practical project documentation, workflow design, context files, and runtime tooling.  
-**Current stage →** Active concept and operational system development.
-
-### SmartMart Brain
-**Problem →** Turn retail strategy, risk thinking, and sales execution into structured, actionable business intelligence.  
-**System →** A strategy and operations framework built around markdown-based business documents and workflow planning.  
-**Technology →** Markdown documentation, retail strategy planning, operational notes, and analytical context files.  
-**Current stage →** Strategic/business planning and concept development.
+The focus is not on demos alone. It is on building systems that make sense in the real world.
 
 ---
 
-# 🧠 Apogee Brain
+# 🧠 APOGEE BRAIN
+
+**Apogee Brain — AI-Assisted Intelligence & Engineering System**
 
 [View repository →](https://github.com/Fullsurwa/Apogee-Brain)
 
-Apogee Brain is the strongest technical project currently visible in my public work. It is a local, context-aware AI system designed around operational memory, reasoning support, workflow orchestration, and practical decision-making.
+Apogee Brain is the flagship project in my public work. It is a local, context-aware AI system designed around operational memory, reasoning support, workflow orchestration, and practical decision-making.
 
-The project demonstrates a real engineering pattern: a runtime that reads local context, assembles relevant information, routes requests through AI, and keeps operational memory available as the system evolves.
+### What it is
 
-### What it does
+Apogee Brain is an evolving system built to bring together:
 
-- loads local vault and operational context
-- keeps structured memory and interaction history
-- operates through a Node.js runtime and Express layer
-- uses Anthropic Claude as the primary model path
-- supports a local Ollama fallback for offline or secondary model access
-- organizes daily operational state around notes, dashboards, and workflow data
-- aims to help with status updates, context retrieval, and recurring decision support tasks
+- local vault and operational context
+- runtime orchestration
+- structured memory and interaction history
+- AI-assisted reasoning and response generation
+- fallback model behavior when the primary path is unavailable
+- workflow support for status, action, and context-focused tasks
 
-### Why it matters
+### Why it exists
 
-This project is not just about chat or demo code. It is about building a more useful operational system: one that combines context, memory, and AI to support execution rather than simply generating isolated responses.
+The repo reflects a real engineering effort to create a system that helps organize context, support decisions, and reduce friction in day-to-day work. It is not just a generic chat wrapper; it is a local operating model that attempts to combine evidence, memory, and AI assistance around a practical workflow.
 
-### Engineering signals in the repo
+### What I am learning through it
 
-The repository demonstrates real software concepts such as:
+This project is helping me work through the practical realities of:
 
 - environment configuration and startup validation
 - API-driven model integration
 - request orchestration and fallback logic
-- file-based persistence and structured memory
-- runtime debugging and operational logging
-- local context assembly from vault and project docs
-- deterministic workflow handling for recurring tasks
+- structured memory and persistence
+- local context assembly from operational files
+- deterministic workflow handling
+- debugging and reliability in local system design
 
-This is a practical AI systems project, not a generic template project.
+### Technologies present
+
+- JavaScript
+- Node.js
+- Express
+- Anthropic Claude
+- Ollama
+- markdown/vault-based context files
+
+### Current status
+
+This is an active, evolving engineering project. It is building toward a more useful local AI operating system rather than a polished commercial product.
+
+---
+
+## Other Projects
+
+### Apogee SKOPE Portfolio
+
+[View repository →](https://github.com/Fullsurwa/Apogee-SKOPE-Portfolio)
+
+**Problem →** Create a clear public-facing portfolio and personal brand presence.  
+**What I built →** A lightweight HTML-based portfolio repository for presenting work and profile context.  
+**Technology →** HTML, static site content, GitHub-ready presentation.  
+**Current status →** Public portfolio repository.
+
+### SmartMart Brain
+
+[View repository →](https://github.com/Fullsurwa/SmartMart-Brain)
+
+**Problem →** Turn retail strategy, risk thinking, and sales execution into structured business intelligence.  
+**What I built →** Markdown-based strategy and planning documents covering business workflows, risk, retail strategy, and sales support.  
+**Technology →** Markdown documentation, strategy notes, and analytical/business planning files.  
+**Current status →** Strategic and concept-development work.
+
+---
+
+## Current Engineering Focus
+
+| Area | Current Focus |
+| --- | --- |
+| Software Engineering | Strengthening core software fundamentals and practical system design |
+| Backend | Runtime logic, APIs, server-side systems, and architecture patterns |
+| AI | AI-assisted applications, local and hosted model workflows, and intelligent interfaces |
+| Databases | Application persistence, structured data, and memory patterns |
+| DevOps | Git workflows, deployment workflows, and development environment practices |
+| System Design | Understanding how larger systems fit together and behave in real use |
+| Product Thinking | Connecting technical solutions to business problems and user value |
 
 ---
 
@@ -151,8 +170,8 @@ This is a practical AI systems project, not a generic template project.
 
 - Claude model integration
 - local LLM fallback
-- structured memory context
-- AI-assisted workflow experimentation
+- AI-assisted workflows
+- structured memory and contextual system design
 
 ### Engineering Tools
 
@@ -162,50 +181,67 @@ This is a practical AI systems project, not a generic template project.
 
 ---
 
-## Featured Projects
+## Engineering Philosophy
 
-### Apogee Brain
-**Stack:** Node.js, Express, Anthropic SDK, local Ollama fallback, markdown/vault context  
-**Focus:** AI-assisted operational system design and context-aware workflow automation  
-**Status:** Active project and primary technical flagship  
-[View repository →](https://github.com/Fullsurwa/Apogee-Brain)
+> Technology should solve a real problem before it solves a technical problem.
 
-### Apogee-SKOPE-Portfolio
-**Stack:** HTML, static site content, GitHub profile/portfolio structure  
-**Focus:** public-facing portfolio and personal presentation  
-**Status:** Public portfolio repo  
-[View repository →](https://github.com/Fullsurwa/Apogee-SKOPE-Portfolio)
+I value:
 
-### SmartMart Brain
-**Stack:** Markdown documentation, strategy notes, business analysis  
-**Focus:** sales strategy, retail systems thinking, and operational planning  
-**Status:** strategic/business concept work  
-[View repository →](https://github.com/Fullsurwa/SmartMart-Brain)
+- clarity over cleverness
+- maintainability over flash
+- practical problem solving over trend-chasing
+- communication as an engineering skill
+- continuous learning through building
+- responsible use of AI as an assistance layer, not a replacement for judgment
+
+---
+
+## Project Management + Software
+
+My project management background gives me more than execution discipline — it gives me a systems lens.
+
+I think about:
+
+- requirements and scope
+- prioritization
+- stakeholder communication
+- risk and delivery realities
+- timelines and iteration
+- whether a solution is actually worth building
+
+That perspective matters because software is not only about whether a feature can be built. It is also about whether it should be built, why it matters, who it serves, and how it gets delivered.
 
 ---
 
 ## AI & Intelligent Systems
 
-I am building practical systems around AI rather than treating it as a buzzword. My current direction centers on:
+I am especially interested in building practical AI-assisted systems and intelligent workflows, especially where technology can reduce friction, improve decision-making, and support human execution.
 
-- LLM integration and model routing
-- AI-assisted workflow support
-- local and hosted model experimentation
-- structured memory systems
-- operational automation with human oversight
-- software that enhances execution rather than replacing judgment
+Current areas of interest include:
 
-This is a builder-focused approach to AI: useful, practical, and closely connected to work and decision-making.
+- AI-assisted development and workflow support
+- LLM integration and model orchestration
+- intelligent applications with clear business value
+- decision-support systems
+- automation with human oversight
+- AI as a tool for operational clarity and execution support
+
+I am building in this space, not positioning myself as a research scientist; I am focused on practical systems and useful outcomes.
 
 ---
 
-## Current Mission
+## Development Journey
 
-I am focused on building practical software and intelligent systems that bring together:
+```mermaid
+flowchart LR
+    A[Project Management] --> B[Digital Strategy]
+    B --> C[Software Development]
+    C --> D[AI-Assisted Systems]
+    D --> E[Backend & Systems Engineering]
+    E --> F[Intelligent Software Products]
+```
 
-**technology + business understanding + automation + AI + execution**
-
-The goal is not just to write code. It is to create systems that solve real problems, improve decisions, and make work more coherent.
+This continues to evolve as I deepen my engineering experience and improve the systems I build.
 
 ---
 
@@ -229,10 +265,61 @@ The goal is not just to write code. It is to create systems that solve real prob
 
 ---
 
-## Let's Connect
+## Open Source
+
+I am building toward deeper participation in open source and more substantial technical contribution as my engineering capability grows. The current focus is on building useful, understandable, and practical projects that reflect real learning and execution.
+
+---
+
+## Learning Roadmap
+
+### Current
+
+- strengthen software engineering fundamentals
+- improve backend development and runtime architecture
+- deepen AI systems understanding
+- improve system design and reliability
+- build more complete and useful applications
+- strengthen testing and deployment workflows
+
+### Next
+
+- production-quality backend systems
+- stronger database and data-model thinking
+- cloud deployment and delivery discipline
+- deeper AI engineering and automation
+- more structured open-source contribution
+
+---
+
+## Current Mission
+
+> Build useful technology. Understand the business problem. Learn the engineering deeply. Ship continuously.
+
+My mission is to combine business understanding, practical project execution, and increasingly capable software and AI systems to build work that matters.
+
+---
+
+## Collaboration
+
+I am interested in collaborating with startups, businesses, developers, technology teams, and open-source communities that are building practical software and AI products.
 
 - GitHub: https://github.com/Fullsurwa
 - LinkedIn: https://www.linkedin.com/in/daniel-oswago
-- Portfolio: https://github.com/Fullsurwa/Apogee-SKOPE-Portfolio
+- Email: doswago@gmail.com
 
-I am open to collaboration on software projects, AI workflows, digital products, and practical business-technology work.
+---
+
+## Personal Note
+
+I am curious about how systems work, how ideas become products, and how strong communication improves technical execution. I enjoy learning by building and I am increasingly focused on the intersection of business value, software engineering, and AI-driven productivity.
+
+---
+
+## BUILD. LEARN. SHIP. REPEAT.
+
+> I'm building at the intersection of business, software and AI — one system, one experiment, and one lesson at a time.
+
+- GitHub: https://github.com/Fullsurwa
+- LinkedIn: https://www.linkedin.com/in/daniel-oswago
+- Email: doswago@gmail.com
