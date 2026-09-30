@@ -1,4 +1,4 @@
-# DANIEL OSWAGO
+﻿# DANIEL OSWAGO
 
 ### Business Strategist → Project Manager → Software Builder
 
@@ -259,10 +259,6 @@ This continues to evolve as I deepen my engineering experience and improve the s
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fullsurwa&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Fullsurwa/Fullsurwa/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</p>
-
 ---
 
 ## Open Source
@@ -323,3 +319,4 @@ I am curious about how systems work, how ideas become products, and how strong c
 - GitHub: https://github.com/Fullsurwa
 - LinkedIn: https://www.linkedin.com/in/daniel-oswago
 - Email: doswago@gmail.com
+
